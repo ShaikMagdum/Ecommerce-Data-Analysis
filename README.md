@@ -141,26 +141,24 @@ Interactive **map visualization** showing **state-wise sales distribution across
 # 🖥 Dashboard Preview
 
 ## Overall Sales Dashboard
-
-![Overall Dashboard](Overall Ecommerce Sales Dashboard.png)
+https://github.com/ShaikMagdum/Ecommerce-Data-Analysis/blob/main/Overall%20Ecommerce%20Sales%20Dashboard.png
 
 ---
 
 ## Consumer Segment Dashboard
-
-![Consumer Segment](Consumer Segment Sales Dashboard.png)
+https://github.com/ShaikMagdum/Ecommerce-Data-Analysis/blob/main/Consumer%20Segment%20Sales%20Dashboard.png
 
 ---
 
 ## Corporate Segment Dashboard
 
-![Corporate Segment](Corporate Segment Sales Dashboard.png)
+https://github.com/ShaikMagdum/Ecommerce-Data-Analysis/blob/main/Corporate%20Segment%20Sales%20Dashboard.png
 
 ---
 
 ## Home Office Segment Dashboard
 
-![Home Office Segment](Home Office Segment Sales Dashboard.png)
+https://github.com/ShaikMagdum/Ecommerce-Data-Analysis/blob/main/Home%20Office%20Segment%20Sales%20Dashboard.png
 
 ---
 
