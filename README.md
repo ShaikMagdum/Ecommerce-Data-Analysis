@@ -62,3 +62,161 @@ The dataset includes the following attributes:
 Additional geographic data was used for **state-level map visualization**.
 
 ### Files Used
+Ecommerce Dataset.csv
+US-States Longitudes-Latitudes Codes.csv
+
+
+---
+
+# 📊 Dashboard Features
+
+## Key Performance Indicators
+
+The dashboard tracks major metrics:
+
+- **YTD Sales**
+- **YTD Profit**
+- **YTD Quantity**
+- **Profit Margin**
+- **Year-over-Year Growth**
+
+These metrics provide a **quick overview of business performance**.
+
+---
+
+# 📈 Sales Analytics
+
+## Sales by Category
+
+Analyzes performance of major product categories:
+
+- Office Supplies
+- Furniture
+- Technology
+
+Includes **Year-to-Date vs Previous Year comparison**.
+
+---
+
+## Top 5 Products by Sales
+
+Identifies products contributing the **highest revenue**.
+
+---
+
+## Bottom 5 Products by Sales
+
+Helps identify **low-performing products** requiring attention.
+
+---
+
+## Sales by Region
+
+Breakdown of sales distribution across:
+
+- West
+- East
+- Central
+- South
+
+---
+
+## Sales by Shipping Mode
+
+Analysis of customer delivery preferences:
+
+- Standard Class
+- Second Class
+- First Class
+- Same Day
+
+---
+
+## Sales by State
+
+Interactive **map visualization** showing **state-wise sales distribution across the United States**.
+
+---
+
+# 🖥 Dashboard Preview
+
+## Overall Sales Dashboard
+
+![Overall Dashboard](Overall Ecommerce Sales Dashboard.png)
+
+---
+
+## Consumer Segment Dashboard
+
+![Consumer Segment](Consumer Segment Sales Dashboard.png)
+
+---
+
+## Corporate Segment Dashboard
+
+![Corporate Segment](Corporate Segment Sales Dashboard.png)
+
+---
+
+## Home Office Segment Dashboard
+
+![Home Office Segment](Home Office Segment Sales Dashboard.png)
+
+---
+
+# 📊 Key Insights
+
+From the dashboard analysis:
+
+✔ **Office Supplies** contribute the highest share of total sales  
+✔ **Standard Class shipping** dominates delivery preferences  
+✔ **West region** generates the highest revenue  
+✔ Certain products consistently appear in **bottom sales rankings**  
+✔ Profit margins vary across **customer segments**
+
+These insights help businesses improve **inventory planning, marketing strategies, and logistics decisions**.
+
+---
+
+# 📁 Repository Structure
+Ecommerce Sales Analysis
+│
+├── Ecommerce Dataset.csv
+├── US-States Longitudes-Latitudes Codes.csv
+├── Ecommerce Sales Analysis.pbix
+├── README.md
+└── dashboard screenshots
+
+
+---
+
+# ⚡ How to Run the Project
+
+1. Download or clone this repository
+2. Open the `.pbix` file using **Power BI Desktop**
+3. Load the dataset files if required
+4. Explore the **interactive dashboard visuals and filters**
+
+---
+
+# 🌟 Future Enhancements
+
+Possible improvements for the project:
+
+- Sales forecasting using **time series analysis**
+- Customer segmentation using **machine learning**
+- Profit optimization analysis
+- Integration with **real-time sales APIs**
+- Advanced **customer behavior analytics**
+
+---
+
+# ⭐ Support
+
+If you like this project:
+
+⭐ **Star the repository**  
+🍴 **Fork it for your own projects**  
+📢 **Share it with others**
+
+---
